@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 👩‍💻 About Me:
 ### Hi there! I'm Kaleo 👋<br><br>🔭 I’m currently working on Angular, React, .NET projects at Itaú.  <br>👯 I’m looking to collaborate on cloud computing and AI projects.  <br>🤝 I’m looking for help with AWS, especially towards my Solutions Architect Associate certification.  <br>🌱 I’m currently learning AWS, Terraform, and expanding my knowledge in Cloud Computing and AI.  <br>💬 Ask me about frontend frameworks like Angular and React, or backend development with .NET.  <br>⚡ Fun fact: I started programming by tinkering with Minecraft macros when I was younger.
 
 
