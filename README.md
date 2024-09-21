@@ -16,7 +16,8 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/kaleobonatto/kaleobonatto/output/snake.svg" alt="Snake animation" />
+![Snake animation](https://raw.githubusercontent.com/kaleobonatto/kaleobonatto/output/snake.svg)
+
 
 ###
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
